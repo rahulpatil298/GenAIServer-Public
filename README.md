@@ -2,7 +2,7 @@ GenAIServer-Public
 This is a public, open-source backend server built with Node.js and TypeScript, designed to serve as an API for AI-powered applications. It connects to a MongoDB database for data persistence and is configured for deployment on Vercel.
 
 🚀 Key Features
-Live Demo: Check out the live API at gen-ai-server-public.vercel.app.
+Live Demo: Check out the live API at [gen-ai-server-public.vercel.app](https://gen-ai-server-public.vercel.app/).
 
 RESTful API: Provides a clean and intuitive API for communication with client-side applications.
 
